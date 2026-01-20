@@ -9,7 +9,7 @@ https://restocafe77.netlify.app/  [oai_citation:2‡Restocafe](https://restocafe
 ---
 
 ## Strategic Objectives
-This web application is designed to:
+This web application is designed to :
 - Elevate online presence for restaurant services
 - Increase customer engagement and table bookings
 - Provide a structured experience across devices
